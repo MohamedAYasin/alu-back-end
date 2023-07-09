@@ -1,5 +1,8 @@
 ## API
-> This repository contains school work that shows how to gather data from an API (file 0-), export it to CSV (file 1-), and export it to JSON (file 2-, 3-).
+> This repository contains school work that shows:
+* (file 0-): how to gather data from an API.
+* (file 0-): how to export it to CSV, and
+* (file 2-, 3-): how to export it to JSON.
 
 
 ### Environment
